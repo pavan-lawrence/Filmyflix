@@ -1,0 +1,288 @@
+*
+{
+	margin: 0px;
+	padding: 0px;
+}
+body
+{
+background-image: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)),url(RRB.jpg);
+background-repeat: no-repeat;
+background-position: center;
+background-size: 1540px 740px;
+background-attachment: fixed;
+
+}
+
+
+}
+.header
+{
+	height: 5%;
+}
+.header-btn
+{
+	text-decoration: 1px !important;
+	border-radius: 50px;
+	padding: 7px 10px;
+	float: right;
+	margin-top: -2px;
+	margin-right: 35px;
+	color: #fff !important;
+	background: #107afd;
+	font-weight: 600;
+}
+.container1
+{
+	color: red;
+}
+.container2
+{
+	color:	 #aaa9ad;
+}
+.container3
+{
+	color: #ffff;
+	margin: 3% 0; 
+	overflow: hidden;
+
+}
+.left-box2
+{
+	color: #ffff;
+
+}
+.tab
+{
+	margin-left: 9px;
+}
+.tab2
+{
+	margin-left: 19px;
+}
+.W
+{
+		text-decoration: 1px !important;
+	border-radius: 50px;
+	padding: 7px 10px;
+	float: left;
+	margin-top: -30px;
+	margin-left: 30px;
+	color: #fff !important;
+	background: #107afd;
+	font-weight: 600;
+	display: inline-block;
+	transform: scale(1);
+	transition: 0.3s ease-in-out;
+}
+.W:hover
+{
+	transform: scale(1.1);
+}
+.D
+{
+	text-decoration: 1px !important;
+	border-radius: 50px ;
+	padding: 7px 10px;
+	border: 1px solid #ffff;
+	float:  left;
+	margin-left: 60px;
+	margin-top: -30px;
+	color: #fff !important;
+	background: transparent;
+	font-weight: 600;
+	display: inline-block;
+	transform: scale(1);
+	transition: 0.3s ease-in-out;
+}
+.D:hover
+{
+	background-color: #FFA500;
+	transform: scale(1.1);
+}
+.fa
+{
+	margin: 5px;
+}
+.p
+{
+	color: #ffff;
+	margin-top: 60px;
+}
+.column1
+{
+	margin-right: 280px;
+	margin-top: -140px;
+	margin-left: 360px;
+	
+	cursor: pointer;
+
+}
+.column
+{
+	margin-top: 50px;
+	margin-left: 30px;
+	
+	
+	
+	cursor: pointer;
+
+}
+
+.column2
+{
+	margin-top: -289px;
+	margin-left: 590px;
+	
+	cursor: pointer;
+}
+.C3
+{
+	margin-top: -289px;
+	margin-left: 910px;
+
+	cursor: pointer;
+}
+.C4
+{
+	margin-top: -289px;
+	margin-left: 1250px;
+
+	cursor: pointer;
+}
+.column img
+{
+	transform: scale(1);
+	transition: 0.3s ease-in-out;
+}
+.column:hover img
+{
+	transform: scale(1.5);
+}
+.column1 img
+{
+	transform: scale(1);
+	transition: 0.3s ease-in-out;
+}
+.column1:hover img
+{
+	transform: scale(1.5);
+	
+}
+.column2 img
+{
+	transform: scale(1);
+	transition: 0.3s ease-in-out;
+}
+.column2:hover img
+{
+	transform: scale(1.5);
+}
+.C3 img
+{
+	transform: scale(1);
+	transition: 0.3s ease-in-out;
+}
+.C3:hover img
+{
+	transform: scale(1.5);
+}
+.C4 img
+{
+	transform: scale(1);
+	transition: 0.3s ease-in-out;
+}
+.C4:hover img
+{
+	transform: scale(1.5);
+}
+
+#more {
+	display: none;
+
+}
+.J
+{
+	margin-left: 100px;
+}
+
+.Q
+{
+		text-decoration: 1px !important;
+	border-radius: 50px;
+	padding: 7px 10px;
+	float: left;
+	margin-top: 410px;
+	margin-left: -1010px;
+	color: #fff !important;
+	background: #107afd;
+	font-weight: 600;
+	display: inline-block;
+	transform: scale(1);
+	transition: 0.3s ease-in-out;
+}
+.Q:hover
+{
+	transform: scale(1.1);
+}
+.N
+{
+	text-decoration: 1px !important;
+	border-radius: 50px ;
+	padding: 7px 10px;
+	border: 1px solid #ffff;
+	float:  left;
+	margin-top: 410px;
+	margin-left: -800px;
+	color: #fff !important;
+	background: transparent;
+	font-weight: 600;
+	display: inline-block;
+	transform: scale(1);
+	transition: 0.3s ease-in-out;
+}
+.N:hover
+{
+	background-color: #FFA500;
+	transform: scale(1.1);
+}
+.H
+{
+		text-decoration: 1px !important;
+	border-radius: 50px;
+	padding: 7px 10px;
+	float: left;
+	margin-top: 460px;
+	margin-left: -1010px;
+	color: #fff !important;
+	background: #107afd;
+	font-weight: 600;
+	display: inline-block;
+	transform: scale(1);
+	transition: 0.3s ease-in-out;
+}
+.H:hover
+{
+	transform: scale(1.1);
+}
+
+.B
+{
+	text-decoration: 1px !important;
+	border-radius: 50px ;
+	padding: 7px 10px;
+	border: 1px solid #ffff;
+	float:  left;
+	margin-top: 460px;
+	margin-left: -800px;
+	color: #fff !important;
+	background: transparent;
+	font-weight: 600;
+	display: inline-block;
+	transform: scale(1);
+	transition: 0.3s ease-in-out;
+}
+.B:hover
+{
+	background-color: #FFA500;
+	transform: scale(1.1);
+}
